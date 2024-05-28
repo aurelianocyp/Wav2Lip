@@ -26,8 +26,9 @@ This code is part of the paper: _A Lip Sync Expert Is All You Need for Speech to
 
 --------
 **Disclaimer**
---------
-All results from this open-source code or our [demo website](https://bhaasha.iiit.ac.in/lipsync) should only be used for research/academic/personal purposes only. As the models are trained on the <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html">LRS2 dataset</a>, any form of commercial use is strictly prohibited. For commercial requests please contact us directly!
+ [demo website](https://bhaasha.iiit.ac.in/lipsync)
+ 
+ <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html">LRS2 dataset</a>
 
 Prerequisites
 -------------

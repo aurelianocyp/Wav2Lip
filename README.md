@@ -16,6 +16,7 @@ Prerequisites
 -------------
 - `git clone https://github.com/aurelianocyp/Wav2Lip`
 - `conda create -n wav2lip python=3.6`
+- `conda activate wav2lip`
 - `sudo apt-get install ffmpeg`
 - `cd Wav2lip`
 -  `pip install -r requirements.txt`. Alternatively, instructions for using a docker image is provided [here](https://gist.github.com/xenogenesi/e62d3d13dadbc164124c830e9c453668). Have a look at [this comment](https://github.com/Rudrabha/Wav2Lip/issues/131#issuecomment-725478562) and comment on [the gist](https://gist.github.com/xenogenesi/e62d3d13dadbc164124c830e9c453668) if you encounter any issues. 

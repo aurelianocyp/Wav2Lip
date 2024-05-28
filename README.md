@@ -15,7 +15,7 @@
 Prerequisites
 -------------
 - `git clone https://github.com/aurelianocyp/Wav2Lip`
-- `conda create -n wav2lip python=3.6`
+- `conda create -n wav2lip python=3.7`
 - `conda activate wav2lip`
 - `sudo apt-get install ffmpeg`
 - `cd Wav2lip`

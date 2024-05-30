@@ -35,7 +35,7 @@ Lip-syncing videos using the pre-trained models (Inference)
 -------
 You can lip-sync any video to any audio:
 ```bash
-python inference.py --checkpoint_path wav2Lip.pth --face <video.mp4> --audio <an-audio-source> 
+python inference.py --checkpoint_path wav2lip.pth --face <video.mp4> --audio <an-audio-source> 
 ```
 The result is saved (by default) in `results/result_voice.mp4`. You can specify it as an argument,  similar to several other available options. The audio source can be any file supported by `FFMPEG` containing audio data: `*.wav`, `*.mp3` or even a video file, from which the code will automatically extract the audio.
 
